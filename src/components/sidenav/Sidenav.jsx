@@ -16,7 +16,7 @@ function Sidenav() {
   return (
     <div className='sidenav-main-container'>
       <div className='sidenav-profile-container'>
-        <img className='sidenav-profile-img' src={profile} alt="Profile" />
+        <img className='sidenav-profile-img' src={"/My picture.JPG"} alt="Profile" />
         <p className='sidenav-profile-name'>Mohamed ait laaroussi</p>
         <p className='sidenav-profile-email'>mohamedaitlaaroussi1@gmail.com</p>
       </div>
